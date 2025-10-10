@@ -6,7 +6,7 @@
 ## About Me
 I'm currently studying Computer Science, and I aspire to be in the cybersecurity field,
 
-##Badges
+## Badges
 [![An image of @ghostlyjester's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ghostlyjester)](https://holopin.io/@ghostlyjester)
 
 
