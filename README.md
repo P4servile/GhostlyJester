@@ -4,7 +4,10 @@
 </p>
 
 ## About Me
-Im a College Student who is studing Computer Science and aspires to be in the cybersecurity field
+I'm currently studying Computer Science, and I aspire to be in the cybersecurity field,
+
+##Badges
+[![An image of @ghostlyjester's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ghostlyjester)](https://holopin.io/@ghostlyjester)
 
 
 ## Languages
